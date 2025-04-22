@@ -34,7 +34,8 @@ while True:
             c.send(msg.encode())
 ```
 ## OUPUT
-![Screenshot 2025-04-22 103216](https://github.com/user-attachments/assets/a1f6d0b8-3cac-4b45-9f64-a364ced4feb8)
+![Screenshot 2025-04-22 103216](https://github.com/user-attachments/assets/27635635-8d3f-4287-99d8-f68b33873eeb)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
